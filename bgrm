@@ -1,9 +1,8 @@
 import cv2
 import numpy as np
 
-input_path = r"C:\Users\Srujan  B J\OneDrive\Desktop\PROJECT\REMOVE BACKGROUND\sample1.jpg"
-
-output_path = r"C:\Users\Srujan  B J\OneDrive\Desktop\PROJECT\REMOVE BACKGROUND\output_image.png"
+input_path =//PATH
+output_path =//PATH
 
 image = cv2.imread(input_path)
 
