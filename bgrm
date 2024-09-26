@@ -1,8 +1,8 @@
 import cv2
 import numpy as np
 
-input_path =//PATH
-output_path =//PATH
+input_path =//PATH(enter the path of your image) 
+output_path =//PATH(enter the path where the image should be stored) 
 
 image = cv2.imread(input_path)
 
